@@ -1,0 +1,9 @@
+.createPost__form {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.createPost__form * {
+  margin: 5px 0;
+}
